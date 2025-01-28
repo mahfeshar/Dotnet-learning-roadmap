@@ -9,7 +9,7 @@ This repository is a collection of my personal notes and resources aimed at mast
 1. **[Database](./Database/)**  
    Notes on working with databases in MS SQL, NoSQL.
 
-2. **[CSharp](./2.%20C#/\)**  
+2. **[CSharp](./2.%20C#/)**  
    Everything related to the C# language itself, for beginner level.
 
 *(More sections will be added as I expand the roadmap.)*
