@@ -3,9 +3,10 @@
 This folder contains my personal summaries and resources to learn and improve C# skills.
 
 ## My Summaries
-### Before Beginning
+### Before You Start (In Detail)
 - [Programming Paradigms](https://share.note.sx/gen1vspf#HXSSBTTf8CXTjxSkWUYI1RD2uztud47bOgLpCu04zNU)
 - [.Net Story](https://share.note.sx/eehbb9vy#dCzfwMbmknPrBqiuphXpybtc8SxpPxOU1/ywNT8tKhc)
+- [CLS and CTS](https://share.note.sx/rbriowcx#QKQt2sYIz1vhbm//CZT9ORp7Tk1K1OrJaeFuwetew/I)
 
 ### Intro
 - [Intro](https://share.note.sx/rmkza1md#Zs3f04SdSQJ6DyZ4yNiSAvYyEFJCmbkr+/oQFY8mijY)
@@ -18,7 +19,15 @@ This folder contains my personal summaries and resources to learn and improve C#
 - [Data Types](https://share.note.sx/jc5k75u0#s5DYMs0WbpZQGD04kDrtgJ9b+dBGKrxSGFZ7fivW6qo)
 - [Data Types Storage](https://share.note.sx/vvwt11gj#bt2dOr8AVUQDp2xwuyD1f9xyFgF5wk59Uik7dKsPZR0)
 - [Variables](https://share.note.sx/pxvnsoxn#j1NQ/iWf+9Ji8/kdOt3FSlJDPajGJpu57AHYr0ZnmEU)
+- [String](https://share.note.sx/sscnzkz6#C6GF5cww+VEgvyU01Vw9FatGxeTlRtFR5MRhzfLthI8)
+- [Operators](https://share.note.sx/b0w79h6h#a83U4UKqbSlb1KWLfX0Y5qf1YadVjEWZUKUrKCw8ANo)
+- [Type Casting](https://share.note.sx/mw41tq6s#tuXH2cqRFppZEnId8AqHqRrVqF4wZQcjU+Ec/vLFjbU)
+  - [As Keyword](https://share.note.sx/8lf69p1y#7qLmn9LfDZZM4xIBJsmMtyn9FMWIhjJ5cXyA276B83k)
+- [Null and Nullable Types](https://share.note.sx/cnr2b975#rbJDqEcbj/ckgsGrR+Df57VStQ34vpLo1n9Et2tKY50)
 
+### [Control flow statments (If, Switch, For, While, Foreach, Do-while)](https://share.note.sx/pap1wffx#Bi6XRLhAeeks6ENuxylHE8kOTEG2+J3PXMChIoK5bIk)
+
+### [Arrays](https://share.note.sx/7p3sswxw#PGaR4+GEMG1hEDNyixDHfAThWasghChPIo4wppxB29M)
 *(More summaries will be added as I progress.)*
 
 ## Resources

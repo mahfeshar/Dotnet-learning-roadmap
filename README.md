@@ -1,14 +1,15 @@
 # DotNet Learning Roadmap
 
-Welcome!
-This repository contains my personal notes, a learning roadmap, and resources for navigating the .NET ecosystem. The goal is to keep everything organized by splitting topics into separate folders, making it easier to reference and revisit content as I progress.
+Welcome to my .NET Learning Roadmap!
+<br>
+This repository is a collection of my personal notes and resources aimed at mastering the .NET ecosystem. By organizing topics into dedicated sections, I hope to create a structured and efficient learning path. Feel free to explore and use this roadmap to guide your own .NET journey.
 
 ## Main Sections
 
 1. **[Database](./Database/)**  
    Notes on working with databases in MS SQL, NoSQL.
 
-2. **[CSharp](./CSharp/)**  
+2. **[CSharp](2.%20C#/\)**  
    Everything related to the C# language itself, for beginner level.
 
 *(More sections will be added as I expand the roadmap.)*
